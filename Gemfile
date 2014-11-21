@@ -1,6 +1,6 @@
 source :rubygems
 
-gem 'addressable', '2.2.7'
+gem 'addressable', '2.3.6'
 gem 'multi_json', '>= 1.0.0'
 gem 'extlib', '>= 0.9.15'
 
